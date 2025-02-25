@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects/contributions 
 - 📫 How to reach me? vhalz.dev@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've got greate sense of Humor 😂
+- ⚡ Fun fact: I've got great sense of Humor 😂
 
 <!---
 vhaalz/vhaalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
