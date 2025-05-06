@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vhaalz
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java, Flutter and Kotlin (KMM)
+- 🌱 I’m currently learning Java (Spring framework), Flutter and Kotlin (KMM)
 - 💞️ I’m looking to collaborate on open source projects/contributions 
 - 📫 How to reach me? vhalz.dev@gmail.com
 - 😄 Pronouns: He/Him
